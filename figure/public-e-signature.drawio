@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T07:42:31.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="l8cYDrS1MPtECd9b95nD" version="20.0.4" type="github"><diagram id="8ogodVyLnAcLF8929XJu" name="Page-1">dZHBEoIgEIafhrvClHY2q0snD50Z2YQZdB2k0Xr6dICMsU4s3/4/y+4SVrTT2fBeXlGAJjQRE2FHQmmasHw+FvJ0ZJcdHGiMEl60gkq9IDg9fSgBQyS0iNqqPoY1dh3UNmLcGBxj2R11XLXnDWxAVXO9pTclrHQ0p9nKL6AaGSqne99fy4PYdzJILnD8QqwkrDCI1kXtVIBehhfm4nynP9nPxwx09odhDta350u0IVa+AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-07T08:43:35.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="cHlfQIceBfSviMaVc42Q" version="20.0.4" type="github">
+  <diagram id="8ogodVyLnAcLF8929XJu" name="Page-1">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9rvrBUTagYlPzyqWuurX-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="290" y="20" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvrBUTagYlPzyqWuurX-2" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="9rvrBUTagYlPzyqWuurX-3">
+          <mxGeometry width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvrBUTagYlPzyqWuurX-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cryptocurrency-blockchain-fintech-free/32/Cryptocurrency_blockchain_data-37-128.png" vertex="1" parent="9rvrBUTagYlPzyqWuurX-3">
+          <mxGeometry x="50" y="17.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvrBUTagYlPzyqWuurX-5" value="S" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="290" width="50" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvrBUTagYlPzyqWuurX-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rvrBUTagYlPzyqWuurX-6" target="9rvrBUTagYlPzyqWuurX-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvrBUTagYlPzyqWuurX-6" value="署名確認" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="530" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvrBUTagYlPzyqWuurX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rvrBUTagYlPzyqWuurX-7" target="9rvrBUTagYlPzyqWuurX-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvrBUTagYlPzyqWuurX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="9rvrBUTagYlPzyqWuurX-7" target="9rvrBUTagYlPzyqWuurX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvrBUTagYlPzyqWuurX-7" value="複合化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvrBUTagYlPzyqWuurX-4" value="P" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="157.5" width="50" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvrBUTagYlPzyqWuurX-15" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rvrBUTagYlPzyqWuurX-10" target="9rvrBUTagYlPzyqWuurX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvrBUTagYlPzyqWuurX-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rvrBUTagYlPzyqWuurX-10" target="9rvrBUTagYlPzyqWuurX-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvrBUTagYlPzyqWuurX-10" value="整合性検証&lt;br&gt;（正常に複合化できたか）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvrBUTagYlPzyqWuurX-12" value="decrypt(encrypted-json, pubKey);" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvrBUTagYlPzyqWuurX-14" value="pubKey==decrypted-json.pubKey" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvrBUTagYlPzyqWuurX-16" value="複合化した値: string&lt;br&gt;or&lt;br&gt;検証結果: bool" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvrBUTagYlPzyqWuurX-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/analytic-investment-and-balanced-scorecard/512/8_Building_office_Tower_Headoffice-128.png" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvrBUTagYlPzyqWuurX-20" value="暗号化" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
