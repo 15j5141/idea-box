@@ -1,62 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T08:43:35.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="cHlfQIceBfSviMaVc42Q" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-09T03:16:39.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ws3Zz8Hwksy46uBjC6yQ" version="20.0.4" type="github">
   <diagram id="8ogodVyLnAcLF8929XJu" name="Page-1">
-    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="869" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9rvrBUTagYlPzyqWuurX-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="290" y="20" width="200" height="140" as="geometry" />
+        <mxCell id="9rvrBUTagYlPzyqWuurX-3" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="370" y="230" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="9rvrBUTagYlPzyqWuurX-2" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="9rvrBUTagYlPzyqWuurX-3">
+        <mxCell id="9rvrBUTagYlPzyqWuurX-2" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="9rvrBUTagYlPzyqWuurX-3" vertex="1">
           <mxGeometry width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="9rvrBUTagYlPzyqWuurX-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cryptocurrency-blockchain-fintech-free/32/Cryptocurrency_blockchain_data-37-128.png" vertex="1" parent="9rvrBUTagYlPzyqWuurX-3">
+        <mxCell id="9rvrBUTagYlPzyqWuurX-1" value="public chain" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cryptocurrency-blockchain-fintech-free/32/Cryptocurrency_blockchain_data-37-128.png" parent="9rvrBUTagYlPzyqWuurX-3" vertex="1">
           <mxGeometry x="50" y="17.5" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9rvrBUTagYlPzyqWuurX-5" value="S" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="290" width="50" height="22.5" as="geometry" />
-        </mxCell>
-        <mxCell id="9rvrBUTagYlPzyqWuurX-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rvrBUTagYlPzyqWuurX-6" target="9rvrBUTagYlPzyqWuurX-7">
+        <mxCell id="9rvrBUTagYlPzyqWuurX-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9rvrBUTagYlPzyqWuurX-6" target="9rvrBUTagYlPzyqWuurX-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9rvrBUTagYlPzyqWuurX-6" value="署名確認" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="530" y="80" width="100" height="60" as="geometry" />
+        <mxCell id="9rvrBUTagYlPzyqWuurX-6" value="署名確認contruct&lt;br&gt;args: json or nft" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="630" y="110" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rvrBUTagYlPzyqWuurX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rvrBUTagYlPzyqWuurX-7" target="9rvrBUTagYlPzyqWuurX-10">
+        <mxCell id="9rvrBUTagYlPzyqWuurX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9rvrBUTagYlPzyqWuurX-7" target="9rvrBUTagYlPzyqWuurX-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9rvrBUTagYlPzyqWuurX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="9rvrBUTagYlPzyqWuurX-7" target="9rvrBUTagYlPzyqWuurX-12">
+        <mxCell id="9rvrBUTagYlPzyqWuurX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="9rvrBUTagYlPzyqWuurX-7" target="9rvrBUTagYlPzyqWuurX-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9rvrBUTagYlPzyqWuurX-7" value="複合化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="9rvrBUTagYlPzyqWuurX-7" value="複合化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rvrBUTagYlPzyqWuurX-4" value="P" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="157.5" width="50" height="22.5" as="geometry" />
+        <mxCell id="9rvrBUTagYlPzyqWuurX-4" value="公開鍵" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#005073;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="730" y="187.5" width="50" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="9rvrBUTagYlPzyqWuurX-15" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rvrBUTagYlPzyqWuurX-10" target="9rvrBUTagYlPzyqWuurX-14">
+        <mxCell id="9rvrBUTagYlPzyqWuurX-15" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9rvrBUTagYlPzyqWuurX-10" target="9rvrBUTagYlPzyqWuurX-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9rvrBUTagYlPzyqWuurX-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rvrBUTagYlPzyqWuurX-10" target="9rvrBUTagYlPzyqWuurX-16">
+        <mxCell id="9rvrBUTagYlPzyqWuurX-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9rvrBUTagYlPzyqWuurX-10" target="9rvrBUTagYlPzyqWuurX-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9rvrBUTagYlPzyqWuurX-10" value="整合性検証&lt;br&gt;（正常に複合化できたか）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="9rvrBUTagYlPzyqWuurX-10" value="整合性検証&lt;br&gt;（正常に複合化できたか）" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="620" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rvrBUTagYlPzyqWuurX-12" value="decrypt(encrypted-json, pubKey);" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="9rvrBUTagYlPzyqWuurX-12" value="decrypt(encrypted-json, pubKey);" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="820" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rvrBUTagYlPzyqWuurX-14" value="pubKey==decrypted-json.pubKey" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="9rvrBUTagYlPzyqWuurX-14" value="pubKey==decrypted-json.pubKey" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="820" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rvrBUTagYlPzyqWuurX-16" value="複合化した値: string&lt;br&gt;or&lt;br&gt;検証結果: bool" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="9rvrBUTagYlPzyqWuurX-16" value="複合化した値: string&lt;br&gt;or&lt;br&gt;検証結果: bool" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="620" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rvrBUTagYlPzyqWuurX-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/analytic-investment-and-balanced-scorecard/512/8_Building_office_Tower_Headoffice-128.png" vertex="1" parent="1">
-          <mxGeometry x="70" y="80" width="80" height="80" as="geometry" />
+        <mxCell id="9rvrBUTagYlPzyqWuurX-19" value="会社, 機関, PrivateChain-contract" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/analytic-investment-and-balanced-scorecard/512/8_Building_office_Tower_Headoffice-128.png" parent="1" vertex="1">
+          <mxGeometry x="70" y="70" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9rvrBUTagYlPzyqWuurX-20" value="暗号化" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="C-GuQPpaQaJhcyp3a_8s-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rvrBUTagYlPzyqWuurX-20" target="C-GuQPpaQaJhcyp3a_8s-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvrBUTagYlPzyqWuurX-20" value="電子署名" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="60" y="180" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C-GuQPpaQaJhcyp3a_8s-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-GuQPpaQaJhcyp3a_8s-3" target="C-GuQPpaQaJhcyp3a_8s-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-GuQPpaQaJhcyp3a_8s-3" value="暗号化？&lt;br&gt;企業コード, 所有者の名前 or Id" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvrBUTagYlPzyqWuurX-5" value="秘密鍵" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#005073;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="140" y="310" width="50" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="C-GuQPpaQaJhcyp3a_8s-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="C-GuQPpaQaJhcyp3a_8s-6" target="C-GuQPpaQaJhcyp3a_8s-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="249.54999999999995" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C-GuQPpaQaJhcyp3a_8s-6" value="デジタル証明書&lt;br&gt;json QRコード" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C-GuQPpaQaJhcyp3a_8s-13" style="edgeStyle=orthogonalEdgeStyle;shape=arrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.098;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="C-GuQPpaQaJhcyp3a_8s-12" target="9rvrBUTagYlPzyqWuurX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-GuQPpaQaJhcyp3a_8s-17" value="例: NFTで配布" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C-GuQPpaQaJhcyp3a_8s-13">
+          <mxGeometry x="-0.3108" y="11" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C-GuQPpaQaJhcyp3a_8s-16" value="" style="edgeStyle=orthogonalEdgeStyle;shape=arrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-GuQPpaQaJhcyp3a_8s-12" target="C-GuQPpaQaJhcyp3a_8s-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-GuQPpaQaJhcyp3a_8s-12" value="{&lt;br&gt;encryptedData: string,&lt;br&gt;version: string,&lt;br&gt;}" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="440" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="C-GuQPpaQaJhcyp3a_8s-14" style="edgeStyle=orthogonalEdgeStyle;shape=arrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9rvrBUTagYlPzyqWuurX-6" target="9rvrBUTagYlPzyqWuurX-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C-GuQPpaQaJhcyp3a_8s-18" value="検証時スマコン呼び出し" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C-GuQPpaQaJhcyp3a_8s-14">
+          <mxGeometry x="-0.445" y="52" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C-GuQPpaQaJhcyp3a_8s-15" value="&lt;span style=&quot;text-align: center;&quot;&gt;# 証明書発行例&lt;br&gt;- QRコード配布印刷&lt;br&gt;- jsonで配布&lt;br&gt;- NFTで配布&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="410" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
